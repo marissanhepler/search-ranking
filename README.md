@@ -1,4 +1,8 @@
 # search-ranking
+This was a takehome test for an anonymous company. 
+
+Most indicators of said company have been removed to discourage academic dishonesty by other candidates. A more detailed description can be given privately on request, exactly what this tool is intended to rank and how the calculations are performed is somewhat abstracted because this repo is publically available.
+
 Code to design a businesses search algorithm and calculate search and profile scores to return a table sorted by designated relevancy guidelines.
 
 Ingest.py takes the user input in the form of a string designating a path to a csv file. 
