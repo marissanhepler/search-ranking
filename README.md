@@ -7,4 +7,6 @@ Search_ranking.py performs the calculations behind the ranking scores and output
 
 Test.csv contains example data. Note that only the specified relevant columns are returned.
 
+Test_output.csv is a real generated output file generated from Test.csv demonstrating how the search ranking works. Tiebreakers in search scoring are broken by the users name in alphabetical order.
+
 Testing_functions.py is testing all the defined calculation and output functions. Please note hardcoded values were used as this is common practice in my field. It is also possible to take out hardcoding if different testing standards are defined.
